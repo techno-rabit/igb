@@ -15,7 +15,7 @@
 ## Step 1 : Download and install Python 
 * `https://www.python.org/downloads/`
 #### `While installing python make sure to enable PATH` 
-## Step 2 : pip3 install update
+## Step 2 : `pip3 install update`
 ## Step 3 : pip3 install webbot
 ## Step 4 : pip3 install pynput
 
