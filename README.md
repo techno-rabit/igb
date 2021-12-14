@@ -34,6 +34,7 @@ git clone git://github.com/techno-rabit/assetfinder.git ; cd assetfinder ; bash 
 
 ## Find us on :
 [![Github](https://img.shields.io/badge/Github-Techno--rabit-green?style=for-the-badge&logo=github)](https://github.com/techno-rabit)
+[![Github](https://img.shields.io/badge/Github-aress03-green?style=for-the-badgaress03e&logo=github)](https://github.com/aress03)
 [![Instagram](https://img.shields.io/badge/IG-%40__.v.shnu-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/_.v.shnu)
-[![Github](https://img.shields.io/badge/Github-aress--03-green?style=for-the-badgaress03e&logo=github)](https://github.com/aress03)
+
 
