@@ -25,7 +25,6 @@
 * `git clone git://github.com/techno-rabit/instabrute.git`
 * `cd instabrute`
 * `pip install -r requirements.txt`
-* 
 <p align="left">
    or
 </p>
