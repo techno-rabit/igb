@@ -25,7 +25,9 @@
 * `git clone git://github.com/techno-rabit/instabrute.git`
 * `cd instabrute`
 * `pip install -r requirements.txt`
-## or
+<p align="center">
+   or
+</p>
 * `pip3 install -r requirements.txt`
 
 #### > Run : `python instagram-brute-force.py`
