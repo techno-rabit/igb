@@ -13,15 +13,10 @@
 
 ## Step 1 : Download and install Tor 
 * `apt-get install tor`
-#### > INSTALL : `sudo apt install assetfinder`
-
+#### > INSTALL :
 * `git clone git://github.com/techno-rabit/instabrute.git`
 * `cd instabrute`
 * `chmod +x igb`
-<p align="left">
-   or
-</p>
-
 #### > Run : ``./igb``
 
 ## Find us on :
