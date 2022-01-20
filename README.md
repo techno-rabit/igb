@@ -9,6 +9,10 @@
 <a href="http://technorabit.unaux.com/"><img title="Website" src="https://img.shields.io/badge/Website-Techno--rabit-red.svg?style=for-the-badge&logo=sites"></a>
 </p>
 
+<p align="center">
+<a href="#"><img title="Educational purposes only" src="https://img.shields.io/badge/Educational%20Purposes-Only-red?colorA=red&colorB=red&style=for-the-badge"></a>
+</p>
+
 ## Installation :
 
 ## Step 1 : Download and install Tor 
