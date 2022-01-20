@@ -15,7 +15,7 @@
 
 ## Installation :
 
-## Step 1 : Download and install Tor 
+## > Download and install Tor 
 * `apt-get install tor`
 #### > INSTALL :
 * `git clone git://github.com/techno-rabit/igb.git`
