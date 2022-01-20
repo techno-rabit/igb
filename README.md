@@ -18,7 +18,9 @@
 * `cd igb`
 * `chmod +x igb`
 #### > Run : ``./igb``
-
+<p align="center">
+<a href="#"><img title="Screenshort" src="Screenshort.png"></a>
+</p>
 ## Find us on :
 [![Instagram](https://img.shields.io/badge/IG-%40__.v.shnu-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/_.v.shnu)
 
